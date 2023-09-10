@@ -1,2 +1,2 @@
 # Website Berita
-Tugas Besar Matakuliah Pemrograman Website,
+Tugas Besar Matakuliah Pemrograman Website
